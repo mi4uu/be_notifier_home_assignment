@@ -1,0 +1,26 @@
+{
+    "include": [
+      "src",
+      "tests"
+    ],
+  
+    "ignore": [
+      "docs"
+    ],
+    
+    "reportMissingImports": true,
+    "reportMissingTypeStubs": false,
+  
+    "pythonVersion": "3.9",
+    "pythonPlatform": "Linux",
+  
+    "executionEnvironments": [
+    
+      {
+        "root": "src"
+      },
+      {
+        "root": "tests"
+      }
+    ]
+  }
