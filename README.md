@@ -1,7 +1,7 @@
 1) I assumed (might be wrong) that I should not touch entities. I don't want to change excesise by mistake, instead of providing solution . 
 2) I didn't add EventType as a string. I did use declared class for that (from entities.py) . When I did read last time Instructions for assignment, than I did notice it. But it was to late -  I didn't had time to implement this . 
-3) didn't implement as many test I i would like to, but (i hope) enough :)
-4) did'nt have enough time to fix all typings errors. But also, typings Is not as smart as I would like to, so it mould might take some time.
+3) didn't  implement as many test I i would like to, but (i hope) enough :)
+4) didn't have enough time to fix all typings errors. But also, typings Is not as smart as I would like to, so it mould might take some time.
 
 I did some helper commands.
 
